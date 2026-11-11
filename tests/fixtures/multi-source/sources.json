@@ -1,0 +1,7 @@
+{
+  "sources": [
+    { "id": "fixture-a", "title": "Synthetic source A", "googleDocId": "mock_document_A_000000000000000000000000000", "enabled": true },
+    { "id": "fixture-b", "title": "Synthetic source B", "googleDocId": "mock_document_B_000000000000000000000000000", "enabled": true },
+    { "id": "fixture-c", "title": "Synthetic source C", "googleDocId": "mock_document_C_000000000000000000000000000", "enabled": true }
+  ]
+}
